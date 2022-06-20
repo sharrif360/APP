@@ -109,4 +109,7 @@ mod tests {
 
 
     // TESTS HERE
+    //add here my comments
+    //this is an example of a single thread comment
+    /*this is an example of  a multi line comment*/
 }
